@@ -3,4 +3,5 @@ A simple Python web application running on Docker Compose. The application uses 
 
 ## Usage
 * Install Docker
+
 $ docker-compose up
